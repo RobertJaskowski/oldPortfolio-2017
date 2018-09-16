@@ -1,6 +1,6 @@
 # oldPortfolio-2017
 
 
-Website i used in 2017.
+<p text-align="center">Website i used in 2017.</p>
 
-<img src="port1.PNG" height="150px">
+<img src="port1.PNG" height="500px">
